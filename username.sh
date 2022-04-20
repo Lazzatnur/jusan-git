@@ -1,1 +1,1 @@
-echo Lazzet Chakyyeva
+ echo Lazzet Chakyyeva
